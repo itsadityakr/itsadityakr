@@ -5,9 +5,9 @@
 <hr>
 <img src="resources/png1.png" align = "right" alt="Send Mail GIF" width="100">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsadityakr&label=Profile%20views&color=0e75b6&style=flat" alt="itsadityakr" /> </p>
-- 📫 Want to get connected **https://linktr.ee/itsadityakr27**
+- 📫 Want to get connected ** https://linktr.ee/itsadityakr27 **
 <br>
-    - ⚡ Fun fact **I don't need coffee.**
+    - ⚡ Fun fact ** I don't need coffee. **
 <p><strong><em><h2>Welcome to Aditya's Room.</h2></em></strong></p>
 <p>
         Hello, I'm Aditya Kumar, and I'm thrilled to have you here! This room’s door serves as a window into my world, offering a glimpse into my passions, experiences, and the journey that has shaped me.
