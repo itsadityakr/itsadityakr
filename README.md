@@ -1,4 +1,4 @@
-<img src="resources/gif.gif" align = "left" alt="Mario Coding GIF" height="300">
+<img src="resources/gif.gif" align = "left" alt="Mario Coding GIF">
 <br>
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <hr>
