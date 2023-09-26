@@ -3,7 +3,7 @@
     <hr>
     <h3 align="center"><em>A passionate Computer Science Engineer from India.</em></h3>
     <hr>
-    <img src="resources/gif3.gif" align = "right" alt="Send Mail GIF" width="100">
+    <img src="resources/png1.png" align = "right" alt="Send Mail GIF" width="100">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsadityakr&label=Profile%20views&color=0e75b6&style=flat" alt="itsadityakr" /> </p>
     - 📫 Want to get connected **https://linktr.ee/itsadityakr27**
     <br>
