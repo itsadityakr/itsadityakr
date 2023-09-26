@@ -1,6 +1,7 @@
 <img src="resources/gif.gif" align = "left" alt="Mario Coding GIF" height="300">
-    <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
-    <hr>
+<br>
+<h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
+<hr>
 <h3 align="center"><em>A passionate Computer Science Engineer from India.</em></h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsadityakr&label=Profile%20views&color=0e75b6&style=flat" alt="itsadityakr" /> </p>
