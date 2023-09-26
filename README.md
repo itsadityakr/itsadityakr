@@ -7,6 +7,7 @@
 - 📫 Want to get connected **https://linktr.ee/itsadityakr27**
 <br>
 - ⚡ Fun fact **I don't need coffee.**
+<img src="resources/gif2.gif" align = "right" alt="Searching GIF" width="100">
 <p><strong><em><h2>Welcome to Aditya's Room.</h2></em></strong></p>
 <p>
     Hello, I'm Aditya Kumar, and I'm thrilled to have you here! This room’s door serves as a window into my world, offering a glimpse into my passions, experiences, and the journey that has shaped me.
@@ -14,7 +15,7 @@
     On this site, you'll find a collection of my work, creations, and notes in the realm as a beginner coder. Whether you're seeking insights, inspiration, or simply curious about what makes me tick, I hope you'll find something here that resonates with you.
     Feel free to explore, connect, and join me on this ongoing journey of discovery. Thanks for stopping by!</p>
 </p>
-<img src="resources/gif2.gif" align = "right" alt="Mario Coding GIF" width="200">
+<img src="resources/gif2.gif" align = "right" alt="Searching GIF" width="200">
     <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/itsadityakr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itsadityakr" height="30" width="40" /></a>
