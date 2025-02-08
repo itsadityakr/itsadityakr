@@ -11,8 +11,8 @@
 - ⚡ Fun fact "I don't need coffee."
 ---
 
-## 💫 About Me:
-Hello, I'm Aditya Kumar, and I'm thrilled to have you here! This room’s door serves as a window into my world, offering a glimpse into my passions, experiences, and the journey that has shaped me. I'm an Web Developer and my enthusiasm for Web Development, Gaming, Programming and Reading has been a driving force in my life. With a deep-seated love for Programming and Gaming, I've dedicated myself to help you with my learnings. On this site, you'll find a collection of my work, creations, and notes in the realm as a beginner coder. Whether you're seeking insights, inspiration, or simply curious about what makes me tick, I hope you'll find something here that resonates with you. Feel free to explore, connect, and join me on this ongoing journey of discovery. Thanks for stopping by!
+## 💫 About Me:  
+Hi, I'm Aditya Kumar! A passionate Web Developer with a love for Programming, Gaming, and Reading. I enjoy sharing my learnings as a beginner coder to help others. Here, you'll find my work, creations, and insights. Feel free to explore, connect, and join me on this journey. Thanks for stopping by!
 
 ---
 
